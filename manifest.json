@@ -4,6 +4,6 @@
     "version":"v1.0.0",
     "iconPath":"src/weather-icon-13.jpg",
     "supportedOS":{
-        "windows":"dist/server.exe"
+        "windows":"dist/weather-app.exe"
     }
 }
