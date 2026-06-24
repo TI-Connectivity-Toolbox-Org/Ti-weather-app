@@ -1,7 +1,7 @@
 {
     "name":"Weather App",
     "description":"A simple angular weather app made by Lior",
-    "version":"v1.0.1",
+    "version":"v1.0.2",
     "iconPath":"src/weather-icon-13.jpg",
     "supportedOS":{
         "windows":"dist/weather-app.exe"
