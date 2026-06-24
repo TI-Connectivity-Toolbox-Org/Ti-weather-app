@@ -3,6 +3,6 @@
     "description":"A simple angular weather app made by Lior",
     "version":"v1.0.0",
     "supportedOS":{
-        "windows":"./server/dist/server.exe"
+        "windows":"./dist/server.exe"
     }
 }
